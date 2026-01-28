@@ -1,12 +1,12 @@
 # Aggiungi i tuoi progetti GitHub qui manualmente
 # Esempio:
 
-- name: "Nome Progetto"
-  description: "Descrizione del progetto"
-  url: "https://github.com/username/repo-name"
-  language: "JavaScript"
+- name: "gestione-agricola-db"
+  description: "Progetto personale per apprendimento mysql e gestione database per un'azienda agricola"
+  url: "https://github.com/Thousand-tricks/gestione-agricola-db"
+  language: "mysql"
   stars: 5
-  pushed_at: "2024-01-15"
+  pushed_at: "2025-11-7"
 
 - name: "Personal website"
   description: "La pagina che stai visualizzando"

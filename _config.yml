@@ -3,7 +3,8 @@ style: light
 
 title: Yuri Fierro
 description: Portfolio e percorso di crescita nello sviluppo web
-baseurl: /Personal-website
+tagline: "Sono uno studente appassionato di informatica, sempre alla ricerca di nuove sfide e opportunità per crescere professionalmente, ho una spiccata preferenza per tutto il mondo open source.<br>Attualmente il mio SO preferito è CosmicOs <br> <br> fierroyuri98@gmail.com <br> +39 3383209008"
+baseurl: #/Personal-website  ##quando si lavora in localhost mettere il path commentato quando si pusha metterlo senza #
 
 plugins:
   - jekyll-octicons
@@ -34,6 +35,7 @@ defaults:
 #     # - repo-name
 
 # social_media:
+
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -51,16 +53,35 @@ defaults:
   # website: http://your_website_url
   # youtube: your_username
 
+
+
+
 topics:
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/java/java.png
+
+  - name: C
+    web_url: https://github.com/topics/c
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/c/c.png
   - name: HTML5
     web_url: https://github.com/topics/html
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/html/html.png
   - name: CSS
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: JavaScript
+    web_url: https://github.com/topics/javascript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
+
+  - name: mysql
+    web_url: https://github.com/topics/mysql
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mysql/mysql.png
+
+  - name: linux
+    web_url: https://github.com/topics/linux
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png
 
   - name: Web design
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  
