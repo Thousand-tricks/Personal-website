@@ -82,6 +82,14 @@ topics:
     web_url: https://github.com/topics/linux
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png
 
+  - name: Android-studio
+    web_url: https://github.com/topics/android-studio?o=desc&s=stars
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/android-studio/android-studio.png
+
+  - name: Python
+    web_url: https://github.com/topics/Python
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
+
   - name: Web design
 
   
