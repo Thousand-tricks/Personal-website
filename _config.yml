@@ -4,7 +4,7 @@ style: light
 title: Yuri Fierro
 description: Portfolio e percorso di crescita nello sviluppo web
 tagline: "Sono uno studente appassionato di informatica, sempre alla ricerca di nuove sfide e opportunità per crescere professionalmente, ho una spiccata preferenza per tutto il mondo open source.<br>Attualmente il mio SO preferito è CosmicOs <br> <br> fierroyuri98@gmail.com <br> +39 3383209008"
-baseurl: #/Personal-website  ##quando si lavora in localhost mettere il path commentato quando si pusha metterlo senza #
+baseurl: /Personal-website  ##quando si lavora in localhost mettere il path commentato quando si pusha metterlo senza #
 
 plugins:
   - jekyll-octicons
