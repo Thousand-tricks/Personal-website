@@ -1,6 +1,9 @@
 layout: sidebar
 style: light
 
+title: Yuri Fierro
+description: Portfolio e percorso di crescita nello sviluppo web
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
