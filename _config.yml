@@ -3,6 +3,7 @@ style: light
 
 title: Yuri Fierro
 description: Portfolio e percorso di crescita nello sviluppo web
+baseurl: /Personal-website
 
 plugins:
   - jekyll-octicons
