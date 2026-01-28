@@ -9,8 +9,8 @@
   pushed_at: "2025-11-7"
 
 - name: "Personal website"
-  description: "La pagina che stai visualizzando"
-  url: "https://github.com/Thousand-tricks/Personal-website"
+  description: "La pagina che adesso stai visualizzando"
+  url: "https://github.com/Thousand-tricks/Personal-website/tree/main"
   language: "Html + Css + JS + Jekyll"
   stars: 5
   pushed_at: "2025-01-28"
