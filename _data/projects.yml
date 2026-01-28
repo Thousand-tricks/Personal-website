@@ -15,6 +15,13 @@
   stars: 5
   pushed_at: "2025-01-28"
 
+- name: "To-You-App"
+  description: "To do list per imparare ad usare Android studio"
+  url: "https://github.com/Thousand-tricks/To_Yu_app"
+  language: "Java"
+  stars: 5
+  pushed_at: "2025-10-15"
+
 # Aggiungi altri progetti qui:
 # - name: "Altro Progetto"
 #   description: "Descrizione"
