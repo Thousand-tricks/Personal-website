@@ -1,0 +1,24 @@
+# Aggiungi i tuoi progetti GitHub qui manualmente
+# Esempio:
+
+- name: "Nome Progetto"
+  description: "Descrizione del progetto"
+  url: "https://github.com/username/repo-name"
+  language: "JavaScript"
+  stars: 5
+  pushed_at: "2024-01-15"
+
+- name: "Personal website"
+  description: "La pagina che stai visualizzando"
+  url: "https://github.com/Thousand-tricks/Personal-website"
+  language: "Html + Css + JS + Jekyll"
+  stars: 5
+  pushed_at: "2025-01-28"
+
+# Aggiungi altri progetti qui:
+# - name: "Altro Progetto"
+#   description: "Descrizione"
+#   url: "https://github.com/username/another-repo"
+#   language: "Python"
+#   stars: 10
+#   pushed_at: "2024-01-20"
